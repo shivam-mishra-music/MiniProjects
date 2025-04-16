@@ -27,6 +27,13 @@ const projects = [
     website: "https://yourcurrencyconverter.com",
     image: gameImg,
   },
+  {
+    title: "Capstone Project",
+    description: "It just was a simple college assignment.",
+    github: "https://github.com/shivam-mishra-music/capstone-2024",
+    website: "https://shivammishracapstone.netlify.app/",
+    image: gameImg,
+  },
 ];
 
 export default function App() {
