@@ -4,6 +4,7 @@ import { motion } from "framer-motion";
 import tictactoeImg from "./assets/tictactoe.jpg";
 import todoImg from "./assets/to-do-list.webp";
 import gameImg from "./assets/2048-img.jpg";
+import capstoneImg from "./assets/capstone.png"
 
 const projects = [
   {
@@ -32,7 +33,7 @@ const projects = [
     description: "It just was a simple college assignment.",
     github: "https://github.com/shivam-mishra-music/capstone-2024",
     website: "https://shivammishracapstone.netlify.app/",
-    image: gameImg,
+    image: capstoneImg,
   },
 ];
 
