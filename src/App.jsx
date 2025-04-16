@@ -17,15 +17,15 @@ const projects = [
   {
     title: "To-Do List",
     description: "A clean to-do list to manage daily tasks.",
-    github: "https://github.com/yourusername/todo-list",
-    website: "https://yourtodolist.com",
+    github: "https://github.com/shivam-mishra-music/ToDoApp",
+    website: "https://shivam-mishra-music.github.io/ToDoApp/",
     image: todoImg,
   },
   {
     title: "2048 game",
     description: "It's a interesting pzzle game",
-    github: "https://github.com/yourusername/currency-converter",
-    website: "https://yourcurrencyconverter.com",
+    github: "https://github.com/shivam-mishra-music/2048-game",
+    website: "https://2048gamenew.netlify.app/",
     image: gameImg,
   },
   {
